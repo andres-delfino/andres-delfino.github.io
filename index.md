@@ -134,5 +134,9 @@ Given the presence of extreme outliers, cross-validate raw data sources and data
 * **Investment Hypothesis:** If leadership operates on the premise that mitigating traffic friction directly unlocks economic output—despite current cross-city ambiguity—Santiago represents the primary candidate for high-impact infrastructure investment.
 * **Prerequisite:** Final capital allocation should remain strictly contingent on deeper diagnostic modeling following data source validation.
 
+### Key Visualizations
+![Traffic Delays](assets/img/project2_distret.png)
+![GPD Per Capita](assets/img/project2_discap.png)
+![GPD vs Congestion](assets/img/project2_conpib.png)
 
-* 
+**[View Full Repository on GitHub](https://github.com/your-username/project-repo)**
