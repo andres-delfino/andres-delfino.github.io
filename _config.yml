@@ -1,6 +1,4 @@
 YAML
-title: Andres Delfino
-logo: /assets/img/imageofmyself.png 
-description: Welcome to my Data Analytics Portfolio!
-show_downloads: false
+title: Andrés Delfino
+description: Data Analytics Portfolio
 theme: jekyll-theme-minimal
