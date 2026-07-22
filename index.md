@@ -28,12 +28,12 @@ Data Analyst with a solid foundation in data analysis and visualization. Profici
 Evaluated user behavior and unit economics for Rappi's subscription service (RappiPlus) to determine if the loyalty program drives higher purchase frequency and net profitability. By analyzing order history, catalog interactions, and marketing spend, I identified friction points in the conversion funnel and delivered data-backed recommendations to optimize user retention and revenue generation.
 
 #### Tools & Skills
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Transformation](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00599C?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-E25A1C?style=for-the-badge&logo=apache-hop&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-295F98?style=for-the-badge&logo=analytics&logoColor=white)
 
 ### Key Business Questions
 1. Do RappiPlus subscribers actually order more frequently than non-subscribers?
