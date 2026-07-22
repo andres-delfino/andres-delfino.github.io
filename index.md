@@ -93,7 +93,7 @@ Evaluated user behavior and unit economics for Rappi's subscription service (Rap
 
 
 ## Project 2: Urban Mobility and Economic Productivity in LATAM Cities
-Find out if there is a correlation between transportation structure and PIB in certain cities for the Latin American Development Bank, which wishes to identify which cities to invest in transportation infrastructure to improve productivity and population well-being.
+Find out if there is a correlation between transportation structure and PIB in certain cities for the American Development Bank, which wishes to identify which cities to invest in transportation infrastructure to improve productivity and population well-being.
 
 #### Tools & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
