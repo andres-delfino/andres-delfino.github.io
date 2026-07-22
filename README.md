@@ -1,9 +1,8 @@
 # andres-delfino.github.io
 
-Markdown
 # About Me
 
-Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate about transforming raw business data into actionable strategic insights.
+Data Analyst with a solid foundation in data analysis and visualization. Proficient in leveraging Python, SQL, and Google Sheets/Excel for advanced data cleaning, analysis, and reporting. Passionate about uncovering patterns in complex raw business datasets and translating them into strategic and actionable insights.
 
 ### Tech Stack
 - **Languages & Databases:** SQL, Python (Pandas, NumPy), Excel
@@ -69,6 +68,8 @@ Evaluated user behavior and unit economics for Rappi's subscription service (Rap
 * **Capitalize on Top Performers:** Prioritize sales and marketing campaigns around the **16GB Gaming Laptop**, identified as the single highest-performing product in the catalog.
 
 ### Key Visualizations
-![Chart Description](assets/img/chart_example.png)
+![KPIs](assets/img/projecto1_metricas.png)
+![Product Revenues](assets/img/projecto1_ingresos_producto.png)
+![Cohort Retention](assets/img/projecto1_cohortes.png)
 
 **[View Full Repository on GitHub](https://github.com/your-username/project-repo)**
