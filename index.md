@@ -20,6 +20,11 @@ Data Analyst with a solid foundation in data analysis and visualization. Profici
 * **Customer-Centric Analytics:** Leveraging domain experience in user feedback, client relations, and operational troubleshooting to identify product and friction drop-offs.
 * **Project Management & Execution:** Managing end-to-end analytics project lifecycles from data extraction and cleaning to final report presentation.
 
+#### Connect & Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-alfonso-delfino-regular)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.delfinor@gmail.com)
+
 ---
 
 # Featured Projects
