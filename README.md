@@ -2,8 +2,6 @@
 layout: default
 title: ""
 ---
-
----
 # About Me
 
 Data Analyst with a solid foundation in data analysis and visualization. Proficient in leveraging Python, SQL, and Google Sheets/Excel for advanced data cleaning, analysis, and reporting. Passionate about uncovering patterns in complex raw business datasets and translating them into strategic and actionable insights.
