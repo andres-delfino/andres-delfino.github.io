@@ -10,6 +10,16 @@ Data Analyst with a solid foundation in data analysis and visualization. Profici
 - **Languages & Databases:** SQL, Python (Pandas, NumPy), Excel
 - **Visualization:** Tableau, Power BI, Seaborn, Matplotlib
 
+#### Professional Core Competencies
+
+* **Performance Metric Tracking:** Skilled at leveraging internal tracking tools to monitor performance metrics, streamline response times, and elevate quality benchmarks.
+* **Pattern Recognition & Problem Solving:** Experienced in identifying recurring operational patterns and conducting deep-dive policy research to eliminate process bottlenecks.
+* **Executive Reporting & Data Visualization:** Proficient at translating operational data into visual support materials and progress reports for leadership briefings to drive strategic decisions.
+* **Business Acumen & Problem Solving:** Translating complex raw dataset patterns into actionable strategic insights and revenue-driven business recommendations.
+* **Cross-Functional Communication:** Presenting data-backed findings clearly to non-technical stakeholders and business leadership.
+* **Customer-Centric Analytics:** Leveraging domain experience in user feedback, client relations, and operational troubleshooting to identify product and friction drop-offs.
+* **Project Management & Execution:** Managing end-to-end analytics project lifecycles from data extraction and cleaning to final report presentation.
+
 ---
 
 # Featured Projects
