@@ -139,4 +139,5 @@ Given the presence of extreme outliers, cross-validate raw data sources and data
 ![GPD Per Capita](assets/img/project2_discap.png)
 ![GPD vs Congestion](assets/img/project2_conpib.png)
 
-**[View Full Repository on GitHub](https://github.com/your-username/project-repo)**
+**[View Full Repository on GitHub](https://github.com/andres-delfino/urban-mobility-analysis
+)**
