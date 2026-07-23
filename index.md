@@ -89,7 +89,7 @@ Evaluated user behavior and unit economics for Rappi's subscription service (Rap
 ![Product Revenues](assets/img/projecto1_ingresos_producto.png)
 ![Cohort Retention](assets/img/projecto1_cohortes.png)
 
-**[View Full Repository on GitHub](https://github.com/your-username/project-repo)**
+**[View Full Repository on GitHub](https://github.com/andres-delfino/rappiplus_strategic_diagnosis)**
 
 
 ## Project 2: Urban Mobility and Economic Productivity in LATAM Cities
